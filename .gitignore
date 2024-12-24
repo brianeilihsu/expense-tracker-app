@@ -1,0 +1,5 @@
+django-venv/
+db.sqlite3
+py_client/*
+!py_client/create.py
+!py_client/quick.py
